@@ -1,1 +1,1 @@
-Trabajo desarrollado en conjunto con el estudiante Andres Gutierrez
+Se desarrola un bot para la aplicación Discord
