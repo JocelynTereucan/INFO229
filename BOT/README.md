@@ -1,5 +1,4 @@
-Se desarrola un bot para la aplicación Discord
-
+Se desarrola un bot funciona para la aplicación Discord.
 
 El proyecto se desarrolla en lenguaje python, con base de datos en entorno sql.
 
