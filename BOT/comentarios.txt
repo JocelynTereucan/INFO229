@@ -1,6 +1,0 @@
-Profesor, me disculpo por la demora en subir el proyecto al repositorio, pero me encontraba con muchas
-dificultades con la arquitectura de mi computador, y errores que demoré en solucionar. No realizamos pruebas en 
-el grupo INFO104, pero si en un grupo de pruebas que cree yo. Le agradezco pueda considerar la entrega a pensar
-de no cumplir el plazo.
-
-El bot tiene el nombre de Oggy, y fue desarrollado en conjunto con mi compañero Andres Gutierrez.
